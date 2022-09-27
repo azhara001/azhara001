@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @azhara001
-- :pakistan: Reaching out from Pakistan 
-- 👀 I’m a research lead in a project around using data to drive sustainable and evidence based public policy
+- 👀 I am a Grad Student at University of California Berkeley where I am focusing on machine learning and data science 
 - 🌱 I’m currently learning geo-spatial data visualization in python using Origin-Destination (OD) matrices retrived through the Google Maps Platform
--  :national_park: Aspiring to form an intersection between Data, Machine Learning and GeoSpatial Visualization to help alleviate the burden of human activity on mother nature!
+-  :national_park: Aspiring to form an intersection between Data Science, Machine Learning and Visualizations
 - :computer: Please connect for gaining access to my Google Maps Platform repository that is built around obtaining Dynamic Travel Times along with Lat_Lng pairs and Geocoding
 :student: An interesting snippet of what I do: :call_me_hand:
 
