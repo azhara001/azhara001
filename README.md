@@ -3,7 +3,7 @@
 - 📚 Specialized in Machine Learning and Data Science
 - 🎓 Capstone : Fine-tuned DONUT for Refiberd's fabric tag reader using AWS infrastructure
 - 👨🏻‍💻 My portolio of projects consists of topics in Fine-Tuning Transformers, Deep Learning, NLP and, Computer Vision
-- 👉🔗 More about me [Link](https://azhara001.github.io/)
+- 👉🔗 Portfolio Link: [Link](https://azhara001.github.io/)
 - 📩 Email: abdullah_azhar@berkeley.edu
 
 
